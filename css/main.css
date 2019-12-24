@@ -1,0 +1,30 @@
+.nav-text {
+	color: white;
+	padding: 8px;
+}
+
+a:hover {
+	color: white;
+}
+
+#home-page-img {
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+
+.cont {
+	margin: 350px 100px;	
+}
+
+.text-color {
+	color: brown;
+	
+}
+
+.form-margin {
+	margin: 90px;
+}
+
+.btn-wid {
+	width: 470px;
+}
